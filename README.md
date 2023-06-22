@@ -1,4 +1,4 @@
-# Operations-of-Binary-Tree
+# Operations-on-Binary-Tree
 
 
 This is a C++ Project on Binary Trees:
